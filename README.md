@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edgar Ferlin</h1>
-<h3 align="center">I'm passionate about technology and aspiring to Front End Developper from Brasil</h3>
+<h3 align="center">I'm passionate about technology, experienced in infrastructure and networks and an aspiring Developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eferlin&label=Profile%20views&color=0e75b6&style=flat" alt="eferlin" /> </p>
 
